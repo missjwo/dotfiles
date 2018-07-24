@@ -1,3 +1,4 @@
+# Auto run timer on last command based off https://jakemccrary.com/blog/2015/05/03/put-the-last-commands-run-time-in-your-bash-prompt/
 function timer_start {
   timer=${timer:-$SECONDS}
 }
