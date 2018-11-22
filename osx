@@ -1,0 +1,4 @@
+// show hidden Mac OS X files
+defaults write com.apple.finder AppleShowAllFiles YES.
+
+// 
